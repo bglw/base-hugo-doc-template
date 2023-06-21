@@ -1,0 +1,13 @@
+baseURL: /
+languageCode: en-us
+title: CloudCannon Documentation Demo
+summaryLength: 30
+disableKinds:
+  - taxonomyTerm
+markup:
+  highlight:
+    noClasses: false
+  # ensures html inside markdown is allowed to render
+  goldmark:
+    renderer:
+      unsafe: true

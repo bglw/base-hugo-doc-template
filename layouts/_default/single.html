@@ -1,0 +1,7 @@
+{{ define "main" }}
+    {{ with .Params.guide_label }}
+        <p class="tagged_guide">Guides /  <span>{{ . }}</span></p>
+    {{ end }}
+    <h1>{{ .Params.title }}</h1>
+    {{ partial "content.html" .Content }}
+{{ end }}

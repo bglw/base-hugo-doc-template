@@ -1,0 +1,7 @@
+{
+  "name": "cc-docs-demo",
+  "private": true,
+  "dependencies": {
+    "alpinejs": "^3.10.3"
+  }
+}

@@ -1,0 +1,66 @@
+.docnav {
+    margin-top: 20px;
+
+    @media ($break) {
+        display: none;
+    }
+}
+
+.docnav-title {
+    background: none;
+    padding: 0;
+    position: relative;
+    display: block;
+    font-weight: 600;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    color: #666;
+}
+
+p.docnav-title {
+    margin-top: 20px;
+}
+
+.docnav-mob {
+    text-align: right;
+
+    &[aria-expanded="true"] {
+        padding-bottom: 1em;
+        border-bottom: solid 1px;
+        margin-bottom: 1em;
+    }
+}
+
+.docnav-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+
+    & & {
+        padding-left: 16px;
+
+        .docnav-mob & {
+            padding-left: 0;
+        }
+    }
+
+    .active {
+        position: relative;
+
+        font-weight: 600;
+
+        a {
+            color: var(--primary);
+        }
+    }
+
+    a {
+        color: var(--text);
+    }
+}

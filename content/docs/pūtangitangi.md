@@ -1,0 +1,79 @@
+---
+_schema: default
+title: "Pūtangitangi"
+nav_title: "Pūtangitangi"
+nav_section: "Least concern"
+weight: 110
+---
+                                   
+
+
+
+ 
+
+The **paradise shelduck** (_**Tadorna variegata**_), also known as the **paradise duck**, or _pūtangitangi_ in [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_language), is a species of [shelduck](https://en.wikipedia.org/wiki/Shelduck), a group of [goose](https://en.wikipedia.org/wiki/Goose)\-like [ducks](https://en.wikipedia.org/wiki/Duck), which is [endemic](https://en.wikipedia.org/wiki/Endemic_(ecology)) to New Zealand. [Johann Friedrich Gmelin](https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin) placed it in the [genus](https://en.wikipedia.org/wiki/Genus) _[Anas](https://en.wikipedia.org/wiki/Anas)_ with the ducks, geese and swans. Both the male and female have striking [plumage](https://en.wikipedia.org/wiki/Plumage): the male has a black head and barred black body, the female a white head with a chestnut body. They weigh between 1.09kg and 2kg (2.4lb and 4.4lb), and are between 63cm and 71cm (25in and 28in) in length.
+
+Paradise shelducks [mate for life](https://en.wikipedia.org/wiki/Mate_for_life) and usually live as pairs, and [moult](https://en.wikipedia.org/wiki/Moulting) their feathers from December to February. They are primarily [herbivorous](https://en.wikipedia.org/wiki/Herbivore), and mostly graze on pasture grasses and clover, but have been observed eating a wide range of [invertebrates](https://en.wikipedia.org/wiki/Invertebrate). They are seasonally [hunted](https://en.wikipedia.org/wiki/Waterfowl_hunting) as a game bird throughout New Zealand, and today the [IUCN Red List](https://en.wikipedia.org/wiki/IUCN_Red_List) classifies them as a species of least concern.
+
+Taxonomy
+------------
+
+The paradise shelduck was [formally described](https://en.wikipedia.org/wiki/Species_description) in 1789 by the German naturalist Johann Friedrich Gmelin in his revised and expanded edition of [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus)'s _[Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae)_. He placed it with all the other ducks, swans and geese in the [genus](https://en.wikipedia.org/wiki/Genus) _[Anas](https://en.wikipedia.org/wiki/Anas)_ and coined the [binomial name](https://en.wikipedia.org/wiki/Binomial_nomenclature) _Anas variegata_. Gmelin based his description on the "Variegated goose" from New Zealand that had been described in 1785 by the English ornithologist [John Latham](https://en.wikipedia.org/wiki/John_Latham_(ornithologist)) in his _A General Synopsis of Birds_. The paradise shelduck is now placed with five other species in the genus _[Tadorna](https://en.wikipedia.org/wiki/Tadorna)_ that was introduced by the German zoologist [Friedrich Boie](https://en.wikipedia.org/wiki/Friedrich_Boie) in 1822. The genus name comes from the French word _Tadorne_ for the common shelduck. The specific epithet _variegata_ is from [Latin](https://en.wikipedia.org/wiki/Latin) _variegatus_ meaning "variegated". The species is [monotypic](https://en.wikipedia.org/wiki/Monotypic): no [subspecies](https://en.wikipedia.org/wiki/Subspecies) are recognised. Other common names include painted duck, pari, parry, parrie, and pūtangitangi in [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people).
+
+Description
+---------------
+
+The paradise shelduck is a colourful, large bodied species of duck that differs in features depending on the sex. Both females and males have chestnut-colour undertails, primarily black wing feathers with green secondary wing feathers, and upper wing surface feathers that are white. They have black legs and webbed feet for swimming. Paradise shelducks are the largest of the _[Tadorna](https://en.wikipedia.org/wiki/Tadorna)_ species, measuring 63 to 71 cm (25 to 28 in) in length and between 1.09 and 2 kg (2.4 and 4.4 lb) in weight, averaging 1.72 kg (3.8 lb) in males and 1.29 kg (2.8 lb) in females, with a wingspan of around 90 centimetres (35 in).
+
+The adult male has blue-black head and neck, with a black rump and tail; back and flank are lightly flecked with a pale yellow colour. The wing of males have contrasting white upper-[coverts](https://en.wikipedia.org/wiki/Coverts) and black [remiges](https://en.wikipedia.org/wiki/Remiges), metallic green [speculum feathers](https://en.wikipedia.org/wiki/Speculum_feathers), and rusty brown [tertials](https://en.wikipedia.org/wiki/Tertials) feathers. The male also has a dark grey flecked with pale-yellow breast and abdomen, chestnut undertail and underwing, and black iris, bill, legs, and feet. The female, unlike the male, has an entirely white hand head and neck with a dark grey back heavily flecked with pale yellow. The rest is very similar to the male with the female's body being dark or light chestnut depending on age and stage of molting.
+
+The downy young are white with a brown crown and brown stripes from crown to tail. Juvenile males look much like the adult males, but the females are smaller with a white patch at the base of the bill. The females assume their white head during the first [molt](https://en.wikipedia.org/wiki/Molt) and 1–2 months after [fledging](https://en.wikipedia.org/wiki/Fledging) their breast and abdomen turn dark chestnut.
+
+The vocal calls differ from male to female. The male belts a di-syllabic honk like a goose when in flight or when alarmed. The male gives off a deep _zonk-zonk honk_, while the female is characterised by a penetrating _zeek-zeek_.
+
+Male and fledgling paradise shelducks can be confused with the vagrant [Australian shelduck](https://en.wikipedia.org/wiki/Australian_shelduck) which has a similar size, shape and posture when swimming, on land and when in flight. However, paradise shelducks lack the white collar, white parts around the eye and base of bill, and the chestnut-coloured breast band.
+
+Distribution and habitat
+----------------------------
+
+Paradise shelducks are the most widely distributed [waterfowl](https://en.wikipedia.org/wiki/Waterfowl) in New Zealand. They inhabit the [North Island](https://en.wikipedia.org/wiki/North_Island), [South Island](https://en.wikipedia.org/wiki/South_Island), offshore islands such as [Little Barrier Island](https://en.wikipedia.org/wiki/Little_Barrier_Island), [Kapiti Island](https://en.wikipedia.org/wiki/Kapiti_Island), [Great Barrier Island](https://en.wikipedia.org/wiki/Great_Barrier_Island), and [Stewart Island](https://en.wikipedia.org/wiki/Stewart_Island). They are most numerous in the North Island, [Hawkes Bay](https://en.wikipedia.org/wiki/Hawkes_Bay), [Poverty Bay](https://en.wikipedia.org/wiki/Poverty_Bay), [Taranaki](https://en.wikipedia.org/wiki/Taranaki) and in [Tongariro National Park](https://en.wikipedia.org/wiki/Tongariro_National_Park), while scattered populations are present in [Waikato](https://en.wikipedia.org/wiki/Waikato) and [Wellington](https://en.wikipedia.org/wiki/Wellington). Paradise Shelducks are uncommonly found on the [Canterbury Plains](https://en.wikipedia.org/wiki/Canterbury_Plains), and generally not found in the high parts of the mountains.
+
+Their preferred habitat is [pasture](https://en.wikipedia.org/wiki/Pasture), [tussock](https://en.wikipedia.org/wiki/Tussock_(grass)) grassland, and [wetlands](https://en.wikipedia.org/wiki/Wetlands) both on the mainland and on offshore islands. They are common around the hilly farmland characterised by fertile riversides, farm dams, and natural pools of the North Island. On the South Island, they can commonly be found in the tussock river valleys and high-country lakes while a small number can be found in the mountain streams, coastal flats, and brackish inlets. Around water bodies are the preferred breeding habitat for which to use as a nursery area for young, the quality or depth of water does not influence the selection, but available vantage points with long views to or from water do influence the selection. Many chosen places have a grassland at the edge of the water and a cover for refuges which is dense, such as [reedbeds](https://en.wikipedia.org/wiki/Reedbeds) and forest. This has the purpose of the birds being able to feed close to the water's safety, and lakes surrounded by dense vegetation might be chosen as well to feed at night.
+
+Behaviour and ecology
+-------------------------
+
+The male adopts a threat posture by dropping its head low with bill horizontal to the ground. If a female notices a threat on the water she responds by stretching out the neck and body while swimming towards the threat swinging her body back and forth, and making a high pitched call. On land she will lower her head and charge. Males will respond to the females by charging with her or taking on "high and erect" posture. In this posture the male will stretch its neck and head upwards and forwards, raise its feathers on the lower neck, call rapidly, and pivot between facing the threat and the female. When a predator threatens an adult pair with young, the parents will adopt the "broken wing display". The pair will run away from the young in a crouched position, raising and lowering its half-opened wings to distract the predator. Once the predator follows the pair away from the young, one of the adults will return to them.
+
+### Breeding
+
+Paradise shelducks first breed in their second or third years forming long-term pair bonds, often lasting for life, and defend their [territories](https://en.wikipedia.org/wiki/Territory_(animal)). If one of the individuals of the couple dies, the other will keep the same territory and will find another mate. They have a long breeding season, lasting from August to December. Mating displays are not elaborate, consisting of a female inciting a male to attack other mates or females and the winner of the fight is then chosen as a partner. The paradise shelduck can nest in a variety of places including inside hollow logs, under fallen logs, in-ground holes or trees up to 20 m (66 ft) high, [rabbit](https://en.wikipedia.org/wiki/Rabbit) [burrows](https://en.wikipedia.org/wiki/Burrow), under haystacks, piles of fence posts, [tussocks](https://en.wikipedia.org/wiki/Tussock_(grass)), in rock crevices, under buildings, among tree roots, or in [culverts](https://en.wikipedia.org/wiki/Culverts). Clutches usually range from 5 to 15 eggs with an average of 8 to 10, with most clutches numbering over 12 being a collective nest from two females. The success rate for eggs laid is 83% hatched and a survival rate from [hatchlings](https://en.wikipedia.org/wiki/Hatchlings) is 89%.
+
+The [incubation](https://en.wikipedia.org/wiki/Egg_incubation) period lasts for 30 to 35 days with only the female looking after the nest 21 to 22 hours a day only leaving at dawn and dusk for food for 1 hour each; the male only stands next to the nest after the eggs have hatched. The [fledging](https://en.wikipedia.org/wiki/Fledging) period for the downy young lasts on average eight weeks, parenting is shared during this time with the young feeding independently and being kept close to the nest in a radius of around 500 m (1,600 ft).
+
+They typically live on average 2.3 years, although some individuals live longer, with the longest lived individual aging 23 years.
+
+The moulting season lasts from December to February, with these [moulting](https://en.wikipedia.org/wiki/Moulting) flocks being an important food source for the early [Māori people](https://en.wikipedia.org/wiki/M%C4%81ori_people). [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) did not hunt the birds during the breeding seasons as to conserve populations, rather hunting during the moulting season when the birds could not fly, this selective hunting ensured healthy populations for culling. During the moulting season, distinct flocks will gather at traditional sites, the one and two-year-old birds arrive first, followed by the failed breeders, and then by the successful breeders arriving late January. At moulting sites, the birds gather in open water with high open hillsides surrounding them acting as vantage points, many sites also have dense vegetation for refuge. Early departures from moulting sites begin in March and April, where adults will return to their distinct breeding territories.
+
+### Food and feeding
+
+The paradise shelduck is a [diurnal](https://en.wikipedia.org/wiki/Diurnality) [omnivore](https://en.wikipedia.org/wiki/Omnivore). The adults are primarily [herbivorous](https://en.wikipedia.org/wiki/Herbivorous) preferring pasture grasses and clover while the young eat mostly aquatic insects for the first five weeks of life before grazing on land. They can feed on a variety of food including grazing or pasture crops, seed heads of grasses and weeds, [earthworms](https://en.wikipedia.org/wiki/Earthworms), [insects](https://en.wikipedia.org/wiki/Insects), and a variety of [crustaceans](https://en.wikipedia.org/wiki/Crustaceans). An extensive record of one bird's diet from the Canterbury district, South Island, New Zealand showing a wide range of leaves and seeds of [terrestrial](https://en.wikipedia.org/wiki/Terrestrial_plant) herbs, terrestrial and [aquatic](https://en.wikipedia.org/wiki/Aquatic_animal) [invertebrates](https://en.wikipedia.org/wiki/Invertebrates), and some aquatic plants.
+
+Threats and conservation
+----------------------------
+
+The paradise shelduck originally had no predators but now with introduced predators such as [stoats](https://en.wikipedia.org/wiki/Stoats) and [weasels](https://en.wikipedia.org/wiki/Weasels), some smaller populations can become threatened. The only group of parasites that affects the Paradise shelduck are the [helminths](https://en.wikipedia.org/wiki/Helminths) which consist of flukes ([Trematodes](https://en.wikipedia.org/wiki/Trematodes)), tapeworms ([Cestodes](https://en.wikipedia.org/wiki/Cestodes)), and roundworms ([Nematodes](https://en.wikipedia.org/wiki/Nematodes)), with only the flatworms not living [symbiotically](https://en.wikipedia.org/wiki/Symbiotically) with the host. Only periodic cases of [avian botulism](https://en.wikipedia.org/wiki/Avian_botulism) have been reported to affect populations.
+
+In relation to diseases, recent research discovered the presence of the [bacterium](https://en.wikipedia.org/wiki/Bacteria) _[Chlamydia psittaci](https://en.wikipedia.org/wiki/Chlamydia_psittaci)_ on Paradise shelducks. Different bacteria genotypes were identified in the samples of the survey and this species have been affected by genotype C. This type of bacterium is associated with important diseases not only on birds but also in humans. However, the possible impact of the disease still needs to be determined and assessed.
+
+### Hunting
+
+Hunting of the species happens throughout the islands where harvest numbers range from 5% to 48% depending on the region, with an average of just over 30%. The hunting season usually starts on the first Saturday of May and ends on the 31st of July. Daily bag limits range from 6 to 25 depending from the region.
+
+### Conservation
+
+Populations of the paradise shelduck used to be much smaller during pre-settlement times due to the increased forest cover but after the settlers began to inhabit the island and clear the land for pastures the populations eventually began to rise. But before the populations could rise, it fluctuated dramatically because of overhunting and exploitation by the settlers, only through protective measures between 1900 and 1920 and limited shooting in the South Island from 1923 to 1939 could the population rise to historical heights by 1935. Today the Paradise shelduck is considered by the International Union for Conservation of Nature to be a species of least concern with stable populations, with a population in the range of 600,000 to 700,000.
+
+Gallery
+-----------
+

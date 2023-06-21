@@ -1,0 +1,23 @@
+
+{{- $lang := "text" -}}
+{{- with .Get "lang" -}}
+    {{- $lang = . -}}
+{{- end -}}
+
+{{- $codeBlock := "" -}}
+{{- if hasPrefix .Inner "\n" -}}
+    {{- $codeBlock = (printf "```%s%s\n```" $lang .Inner) -}}
+{{- else -}}
+    {{- $codeBlock = (printf "```%s\n%s\n```" $lang .Inner) -}}
+{{- end -}}
+
+<div class="custom_code"
+    x-data="{ open: true }">
+    <div class="__row" :class="{open: open}">
+        <p>{{ .Get "filename" }}</p>
+        <button x-text="open ? '-' : '+'" @click="open = !open"></button>
+    </div>
+    <div class="__inner" x-show="open">
+        {{ .Page.RenderString $codeBlock }}
+    </div>
+</div>

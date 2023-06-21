@@ -1,0 +1,4 @@
+project_name: CloudCannon Hugo Demo
+default_og_image: /og.png
+logo_image: /logo.png
+side_nav_title: Docs
